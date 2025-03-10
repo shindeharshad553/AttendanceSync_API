@@ -8,10 +8,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 //@EnableAutoConfiguration
 //@ComponentScan
 @SpringBootApplication
-public class SamsTrackApplication {
+public class AttendanceSyncTrackApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SamsTrackApplication.class, args);
+		SpringApplication.run(AttendanceSyncTrackApplication.class, args);
 	}
 
 }
